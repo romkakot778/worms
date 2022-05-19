@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x49DceF43bf22fE5E49DE967ebe7b2B8f98241043",
+  "SCAN_LINK": "https://polygonscan.com/address/0x49DceF43bf22fE5E49DE967ebe7b2B8f98241043",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "CryptoWormsNFT",
+  "SYMBOL": "WORM",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
